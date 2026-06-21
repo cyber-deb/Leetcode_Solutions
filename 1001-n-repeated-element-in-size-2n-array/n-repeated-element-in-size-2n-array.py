@@ -1,6 +1,7 @@
 class Solution:
     def repeatedNTimes(self, nums: List[int]) -> int:
-        for i in set(nums):
-            if nums.count(i)==len(nums)//2:
+        seen=set()
+        for i in nums:
+            if i in seen:
                 return i
-        
+            seen.add(i)
