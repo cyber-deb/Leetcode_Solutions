@@ -1,11 +1,13 @@
 class Solution:
     def countTestedDevices(self, batteryPercentages: List[int]) -> int:
-        c=0
-        for i in range(len(batteryPercentages)):
-            if batteryPercentages[i]>0:
-                c+=1
-                for j in range(i+1,len(batteryPercentages)):
-                    batteryPercentages[j]=max(0,batteryPercentages[j]-1) 
-        return c
-        
+        ans = 0
+        for bat in batteryPercentages:
+            if bat>0:
+                if bat-ans>=0:
+                    bat-=ans
+                else:
+                    bat=0
+            if bat>0:
+                ans+=1
+        return ans
         
