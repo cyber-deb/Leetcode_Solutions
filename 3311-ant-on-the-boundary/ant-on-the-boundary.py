@@ -4,8 +4,7 @@ class Solution:
         s=0
         for i in nums:
             s+=i
-            if s==0:
-                c+=1
+            c+=(s==0)
         return c
 
         
