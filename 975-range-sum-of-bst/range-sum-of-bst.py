@@ -10,12 +10,6 @@ class Solution(object):
         dfs(root)
         return ans
     def rangeSumBST(self, root, low, high):
-        """
-        :type root: Optional[TreeNode]
-        :type low: int
-        :type high: int
-        :rtype: int
-        """
         c=0
         x=self.inorder(root)
         for y in x:
