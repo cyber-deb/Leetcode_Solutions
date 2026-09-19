@@ -5,4 +5,3 @@ class Solution:
         for i in range(l):
             ans+=s[(i+k)%l]
         return ans
-        
