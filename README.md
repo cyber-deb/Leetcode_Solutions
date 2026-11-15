@@ -47,32 +47,6 @@ added together to calculate distinct problems solved.*
 -   Makes it easier to monitor consistency and identify progress over
     time.
 
-## 🧰 Tech Stack
-
-The implementation details and dependencies are defined by the source
-code in this repository. Check the project files for the exact tools and
-setup instructions.
-
-## 🚀 Getting Started
-
-1.  Clone this repository:
-
-    ``` bash
-    git clone <YOUR_REPOSITORY_URL>
-    ```
-
-2.  Move into the project directory:
-
-    ``` bash
-    cd <REPOSITORY_NAME>
-    ```
-
-3.  Follow the installation and execution instructions defined by the
-    project files.
-
-> Setup commands may vary depending on the implementation. Refer to the
-> source code and configuration files for the current requirements.
-
 ------------------------------------------------------------------------
 
 ## 📁 Repository Structure
@@ -83,10 +57,10 @@ implementation.
 
 ## 🗺️ Future Improvements
 
--   [ ] Add clearer progress summaries.
+-   [x] Add clearer progress summaries.
 -   [ ] Track solved problems by difficulty.
 -   [ ] Generate progress reports over time.
--   [ ] Improve historical submission records.
+-   [x] Improve historical submission records.
 -   [ ] Add visual statistics for consistency and problem-solving
     activity.
 
