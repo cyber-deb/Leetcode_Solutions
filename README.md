@@ -1,4 +1,4 @@
-# LeetCode Submission Tracker
+# LeetCode Solutions
 
 A personal repository that automatically tracks my **LeetCode
 submissions** and keeps a record of my problem-solving journey. Instead
