@@ -16,25 +16,26 @@ transparent record of my DSA journey.**
 
 My current progress, based on my LeetCode profile:
 
-  Metric                           Progress
-  ------------------------------ ----------
-  **Distinct problems solved**      **551**
-  Easy                                  484
-  Medium                                 66
-  Hard                                    1
-  Submissions in the past year        1,233
-  Active days                           176
-  Maximum streak                   170 days
-  Contest rating                      1,490
-  Contests attended                       3
+| Metric | Progress |
+|:---|---:|
+| **Distinct problems solved** | **551** |
+| Easy | 484 |
+| Medium | 66 |
+| Hard | 1 |
+| Submissions in the past year | 1,233 |
+| Active days | 176 |
+| Maximum streak | 170 days |
+| Contest rating | 1,490 |
+| Contests attended | 3 |
 
 ### Languages
 
-  Language     Problems shown on profile
-  ---------- ---------------------------
-  Python3                            440
-  Python                             114
-  C                                   11
+| Language | Problems shown on profile |
+|:---|---:|
+| Python3 | 440 |
+| Python | 114 |
+| C | 11 |
+
 
 *These are the language counts displayed on my profile; they are not
 added together to calculate distinct problems solved.*
