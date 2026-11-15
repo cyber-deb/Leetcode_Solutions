@@ -8,7 +8,9 @@ helps maintain a running history of the problems I solve.
 The goal is simple: **track consistency, measure progress, and build a
 transparent record of my DSA journey.**
 
+
 ------------------------------------------------------------------------
+
 
 ## 📊 LeetCode Progress
 
@@ -32,10 +34,11 @@ My current progress, based on my LeetCode profile:
   ---------- ---------------------------
   Python3                            440
   Python                             114
-  C                                   10
+  C                                   11
 
 *These are the language counts displayed on my profile; they are not
 added together to calculate distinct problems solved.*
+
 
 ------------------------------------------------------------------------
 
